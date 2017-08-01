@@ -1,0 +1,11 @@
+w aaaf0
+w baaf0
+r aaaf0
+w daaf0
+w eaaf0
+w faaf0
+w aaaf0
+r faaf0
+r aaaf0
+r daaf0
+r eaaf0

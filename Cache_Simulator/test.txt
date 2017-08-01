@@ -1,0 +1,5 @@
+r
+w
+abcdef
+r abcdef
+123
